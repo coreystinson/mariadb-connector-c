@@ -99,8 +99,6 @@ ipch
 *.sln
 *.suo
 *.sdf
-Win32
-x64
 *.dir
 Debug
 Release
